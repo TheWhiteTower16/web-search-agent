@@ -1,3 +1,3 @@
 # AI Search Agent
 
-Welcome to the **AI Search Agent** repository! This project is designed to provide an intelligent search agent leveraging the new DeepSeek models to efficiently navigate and solve complex search problems.
+Welcome to this **AI Search Agent**! This project is designed to provide an intelligent search agent leveraging the new DeepSeek models to efficiently navigate the internet and retrieve the best results.
