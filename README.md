@@ -19,7 +19,7 @@ To set up the AI Search Agent locally, follow these steps:
    ```
 
 2. **Configure Environment Variables**:
-   Create a `.env` file in the root directory and add any necessary environment variables required for DeepSeek integration.
+   Create a `.env` file in the root directory and add all necessary environment variables.
 
 3. **Start the Application**:
    ```bash
