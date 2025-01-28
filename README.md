@@ -22,9 +22,6 @@ To set up the AI Search Agent locally, follow these steps:
    Create a `.env` file in the root directory and add all necessary environment variables.
 
 3. **Start the Application**:
-   ```bash
-   npm run dev
-   ```
 
 ## Usage
 
